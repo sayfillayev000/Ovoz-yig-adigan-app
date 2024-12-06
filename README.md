@@ -7,7 +7,7 @@ Bu veb sayt muammolarga ovoz yig'adigan platforma
 -   **Admin Panel**:
 
     -   Admin muammolarni CRUD qiladi
-    -   Userlar kirib muammolarga biriga ovoz berishlari mumkin
+    -   Userlar platformaga kirib muammolarga biriga ovoz berishlari mumkin
 
 ## O'rnatish
 
