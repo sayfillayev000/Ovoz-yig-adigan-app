@@ -20,7 +20,7 @@ Bu veb sayt muammolarga ovoz yig'adigan platforma
     ```
 
     ```shell
-    code e-voting
+    code Ovoz-yig-adigan-app
     ```
 
 3. `.env`
@@ -56,7 +56,7 @@ Bu veb sayt muammolarga ovoz yig'adigan platforma
 -   Admin
 
     ```shell
-    email   : admin@gmail.com
+    email: admin@gmail.com
     password: password
     ```
 
